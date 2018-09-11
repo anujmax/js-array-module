@@ -4,7 +4,7 @@
   "description": "A simple utility for unique array and string functions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha **/*.test.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/anujmax/js-array-module/issues"
   },
-  "homepage": "https://github.com/anujmax/js-array-module#readme"
+  "homepage": "https://github.com/anujmax/js-array-module#readme",
+  "devDependencies": {
+    "expect": "^23.6.0",
+    "mocha": "^5.2.0"
+  }
 }
