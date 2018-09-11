@@ -1,0 +1,27 @@
+{
+  "name": "js-array-module",
+  "version": "1.0.0",
+  "description": "A simple utility for unique array and string functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anujmax/js-array-module.git"
+  },
+  "keywords": [
+    "array",
+    "sort",
+    "average",
+    "sum",
+    "uniq",
+    "string"
+  ],
+  "author": "Anuj Agrawal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anujmax/js-array-module/issues"
+  },
+  "homepage": "https://github.com/anujmax/js-array-module#readme"
+}
