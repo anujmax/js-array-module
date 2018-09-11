@@ -1,5 +1,5 @@
 {
-  "name": "js-array-module",
+  "name": "js-array-module-sample",
   "version": "1.0.0",
   "description": "A simple utility for unique array and string functions",
   "main": "index.js",
